@@ -8,4 +8,6 @@ Everything runs in your browser on sample data. No scripts are run and nothing i
 
 Try the **One computer / Several computers** switch at the top of an area page: pick the saved group *Ward 5A PCs*, or the AD group *SG-Devices-Outpatients-Kiosks*, press **Check all**, then **Run** a script to watch it work through the computers.
 
+Script options: as the Service Desk executor, run **Get-VoipNumberOwner**. It needs no target computer (it looks a phone number up on the server), its form checks the number before running, and **Site** offers suggested values. Other scripts show drop-downs, ranges and the command the options add up to.
+
 All team names, computers, accounts and groups are made up.
